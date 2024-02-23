@@ -11,16 +11,18 @@
 	border:15px solid blue;
 	padding:45px;
 	margin:15px;
+	background-color:lightblue;
 }
 #box2
 {
+	background-color:lightblue;
 	width:150px;
-	border:10px solid lightblue;
+	border:1px solid black;
 	padding:40px;
 	margin:0px;
 }
 #box3
 {
-	
+	background-color:lightblue;
 }
 /* Your CSS Code here. */
