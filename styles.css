@@ -1,7 +1,7 @@
 #box
 {
 	width:300px;
-	border:1px solid lightblue;
+	border:1px solid black;
 	padding:50px;
 	margin:20px;
 }
@@ -17,7 +17,7 @@
 {
 	background-color:lightblue;
 	width:150px;
-	border:1px solid black;
+	border:1px solid lightblue;
 	padding:40px;
 	margin:0px;
 }
