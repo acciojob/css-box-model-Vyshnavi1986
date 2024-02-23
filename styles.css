@@ -1,19 +1,8 @@
 #box
 {
+	width:300px;
+	background-color:lightblue;
+	border:15px solid blue border;
+	padding:50px;
 	margin:20px;
 }
-#box1
-{
-	border:15px solid blue;
-}
-#box2
-{
-	background-color:lightblue;
-	padding:40px;
-}
-#box3
-{
-	width:944px;
-	background-color:lightblue;
-}
-/* Your CSS Code here. */
