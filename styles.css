@@ -1,8 +1,22 @@
-div
+#box
 {
 	width:300px;
-	border:15px solid green;
+	border:1px solid black;
 	padding:50px;
 	margin:20px;
+}
+#box1
+{
+	width:200px;
+	border:15px solid blue;
+	padding:45px;
+	margin:15px;
+}
+#box2
+{
+	width:150px;
+	border:10px solid lightblue;
+	padding:40px;
+	margin:0px;
 }
 /* Your CSS Code here. */
